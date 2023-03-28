@@ -859,6 +859,10 @@ body {
   background-image: url('./img/hero-cover.jpg');
 }
 
+.bg-\[url\(\'https\:\/\/github\.com\/jstnaglrr\/physionic\/blob\/c156c27994d356bd16ae62b5a77ace6a9a6708e4\/dist\/img\/hero-cover\.jpg\'\)\] {
+  background-image: url('https://github.com/jstnaglrr/physionic/blob/c156c27994d356bd16ae62b5a77ace6a9a6708e4/dist/img/hero-cover.jpg');
+}
+
 .bg-cover {
   background-size: cover;
 }
